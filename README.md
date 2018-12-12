@@ -6,15 +6,14 @@ This is Code to find Leap year Just enter any year you want to and then it will 
 You will need jdk installed on your system or Intellij sdk, any one of them to run the programme.
 
 **Getting Project**
-First Download the source code You will find separate files as well as zip file for the project.
-If you have have intellij, simply Extract project from the Find-Leap-Year-master folder and import into the intellij.
-and then project will build in few minute.
+Once you Downloaded the source code import it into intellij if it is installed in and then project will build in few minute.
 
 **Run the project**
 Once the project is build,open the main file in Intellij by oenign folder Leap Year --> src--> Main
 then cilck ctrl+shift+F10 to run Main, you will find the console at bottom,enter any year you want then it will show the result.
 I have attached screenshots for the same.
-If you don't have the Intellij installed in your system then you will need jdk installed to run the code  
+If you don't have the Intellij installed in your system then you will need jdk installed to run the code then navigate to path of main file on production folder in cmd and then enter here I have path as  
+D:\Users\gsawant\Downloads\Leapyear\out\production\LeapYear> java Main then press enter it will ask to entrr the year.
 
 **Code Description**
 I have used scanner class here since it is the easiest way to read input in a Java program.
